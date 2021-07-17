@@ -478,7 +478,8 @@ footer {
         background-position: center;
     }
     .li1header1:hover {
-        display: block;
+         background: url(../img/1.png)no-repeat;
+    transition: all 0.3s ease;
         background-position: center;
     }
     .section1 {
