@@ -556,15 +556,15 @@ footer {
     }
     .div3sec2 {
         margin: 0;
-        border: 1px solid white;
+        border-bottom: 1px solid white;
     }
     .div4sec2 {
         margin: 0;
-        border: 1px solid white;
+        border-bottom: 1px solid white;
     }
     .div5sec2 {
         margin: 0;
-        border: 1px solid white;
+        border-bottom: 1px solid white;
     }
     .div3sec2 img {
         height: 420px;
