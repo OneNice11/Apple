@@ -477,7 +477,7 @@ footer {
         display: block;
         background-position: center;
     }
-    .li1header1:hover {
+    .li1header1:target {
          background: url(../img/1.png)no-repeat;
     transition: all 0.3s ease;
         background-position: center;
